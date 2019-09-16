@@ -1,8 +1,10 @@
 ## Learn Computer Vision
+[![Python 3.6+](https://img.shields.io/badge/Python%20-3.6%2B-orange)](https://www.python.org/downloads/) 
+[![License GPL(>=2)](https://img.shields.io/cran/l/devtools?style=plastic)](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/LICENSE)
 ### Curriculum Length
 - 4 weeks
 - 60-72 hours.
-- Now, I have divided these hours into 4 weeks, you can divide it up in any number of weeks you wish to. Do it in your own pace.
+- I have divided these hours into 4 weeks, you can divide it up into any number of weeks you wish to. Do it at your own pace.
 ### Contents
   - [Week 1:-Low-level Computer Vision (Basic Image Processing Techniques) ](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/README.md#week-1)
   - [Week 2:- Image Segmentation, Fitting and Multiple images(Mid-Level Vision Techniques(images>features))](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/README.md#week-2)
@@ -44,7 +46,7 @@ Color processing (B&W, Saturation, White Balance), Optical Flow and Motion Track
    - Watch the [videos](http://vision.cs.utexas.edu/376-spring2018/#Tues_May_1) by CS376 Computer Vision, Spring 2018
    - Watch the video Lecture series on [Multiple View Geometry in Computer Vision](https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj)
 #### Assignment
-   - Compute Vanishing Points in a hallway image with OpenCV [here]()
+   - Compute Vanishing Points in a hallway image with OpenCV [here](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/tree/master/vanishing%20point%20detection)
    - Turn a set of images into a 3D Object with OpenCV.
    
 ### Week 3
@@ -65,7 +67,7 @@ Color processing (B&W, Saturation, White Balance), Optical Flow and Motion Track
 
 #### Assignments
    - Perform Object Segmentation in a 3D Scene with OpenCV
-   - Classify a car in an image with Tensorflow.
+   - Classify a car in an image with Tensorflow [here](https://www.tensorflow.org/lite/models/image_classification/overview).
 
 ### Week 4
 #### Length:- 18 hours
