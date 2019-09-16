@@ -59,7 +59,7 @@ Color processing (B&W, Saturation, White Balance), Optical Flow and Motion Track
    - Read the following papers:-
       - S Lazebnik, C Schmid, J Ponce, Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories.
       - Jegou et al. Aggregating local image descriptors into compact codes.
-#### Object Detection and Classsification(Object/scene/activity categorization (semantic segmentation),Object detection (Non max suppression , sliding windows, Boundary boxes and anchors, counting),YOLO and Darknet, region proposal networks,Supervised classification algorithms,Probabilistic models for sequence data,Optical Character Recognition,Facial Detection)
+#### Object Detection and Classsification(Object/scene/activity categorization (semantic segmentation),Object detection (Non max suppression , sliding windows, Boundary boxes and anchors, counting),YOLO and Darknet, region proposal networks,Supervised classification algorithms,Probabilistic models for sequence data,Optical Character Recognition,Facial Detection
 
    - Watch the video Lectures 10- 18 of [The Ancient Secrets of Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) 
    - Watch  the full [playlist](https://www.youtube.com/playlist?list=PLZBN9cDu0MSk4IFFnTOIDihvhnHWhAa8W) on YOLOv3 object detection by Ivan Goncharov.
