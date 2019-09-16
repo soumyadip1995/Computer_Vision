@@ -1,8 +1,13 @@
 ## Learn Computer Vision
 ### Curriculum Length
 - 4 weeks
+- 60-72 hours.
+- Now, I have divided these hours into 4 weeks, you can divide it up in any number of weeks you wish to. Do it in your own pace.
 ### Contents
-  - [Week 1-Low-level Computer Vision (Basic Image Processing Techniques) ](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/README.md/###Week_1)
+  - [Week 1:-Low-level Computer Vision (Basic Image Processing Techniques) ](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/README.md#week-1)
+  - [Week 2:- Image Segmentation, Fitting and Multiple images(Mid-Level Vision Techniques(images>features))](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/README.md#week-2)
+  - [Week 3:- 3D and High Level Vision Techniques( features> analysis)](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/README.md#week-3)
+  - [Week 4:- Deep Learning](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/README.md#week-4)
 ### Week 1
 #### Low-level Computer Vision (Basic Image Processing Techniques) 
 #### Length- 14-16 hours
