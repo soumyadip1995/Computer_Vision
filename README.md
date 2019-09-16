@@ -2,7 +2,7 @@
 ### Curriculum Length
 - 4 weeks
 ### Contents
-  - [Week 1-Low-level Computer Vision (Basic Image Processing Techniques) ](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/edit/master/README.md/###Week_1)
+  - [Week 1-Low-level Computer Vision (Basic Image Processing Techniques) ](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/README.md/###Week_1)
 ### Week 1
 #### Low-level Computer Vision (Basic Image Processing Techniques) 
 #### Length- 14-16 hours
