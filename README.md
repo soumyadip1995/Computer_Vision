@@ -1,6 +1,6 @@
 ## Learn Computer Vision
 [![Python 3.6+](https://img.shields.io/badge/Python%20-3.6%2B-orange)](https://www.python.org/downloads/) 
-[![License GPL(>=2)](https://img.shields.io/cran/l/devtools?style=plastic)](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/LICENSE)
+
 ### Curriculum Length
 - 4 weeks
 - 60-72 hours.
