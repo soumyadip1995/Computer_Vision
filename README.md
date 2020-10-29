@@ -1,10 +1,6 @@
 ## Learn Computer Vision
 [![Python 3.6+](https://img.shields.io/badge/Python%20-3.6%2B-orange)](https://www.python.org/downloads/) 
 
-### Curriculum Length
-- 4 weeks
-- 60-72 hours.
-- I have divided these hours into 4 weeks, you can divide it up into any number of weeks you wish to. Do it at your own pace.
 ### Contents
   - [Week 1:-Low-level Computer Vision (Basic Image Processing Techniques) ](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/README.md#week-1)
   - [Week 2:- Image Segmentation, Fitting and Multiple images(Mid-Level Vision Techniques(images>features))](https://github.com/soumyadip1995/Computer_vision_in_4_weeks/blob/master/README.md#week-2)
